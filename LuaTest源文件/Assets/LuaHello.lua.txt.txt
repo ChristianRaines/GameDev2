@@ -1,0 +1,4 @@
+function start()
+  string1 = "Hello Wordl!!!"
+  self:GetComponent("Text").text = string1 
+end
